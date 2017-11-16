@@ -1,0 +1,31 @@
+*{
+    color:whitesmoke;
+    font-family: inherit;
+    text-align: center;
+    
+
+}
+
+#planilla, #concatena{
+    background-color: #24292e;
+    padding: 10px;
+    border-radius: 10px;
+    height: 350px;
+    width: 500px;
+    
+    
+}
+
+
+div{
+    background-color: black;
+}
+
+input{
+    color: #24292e;
+    border-radius: 5px;
+}
+
+#concatena{
+    font-size: 20px;
+}
